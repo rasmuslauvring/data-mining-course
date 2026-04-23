@@ -9,6 +9,63 @@ st.set_page_config(
 	layout="wide"
 )
 
+st.markdown(
+	"""
+	<style>
+	.stApp {
+		background: radial-gradient(ellipse at center, #000000 0%, #111111 40%, #333333 100%) !important;
+		background-attachment: fixed !important;
+	}
+	</style>
+	<canvas id="star-canvas"></canvas>
+	<script>
+	(function() {
+		const existing = document.getElementById('star-canvas');
+		if (existing && existing._initialized) return;
+
+		const canvas = existing || document.createElement('canvas');
+		canvas.id = 'star-canvas';
+		canvas._initialized = true;
+		canvas.style.cssText = 'position:fixed;top:0;left:0;width:100vw;height:100vh;pointer-events:none;z-index:0;';
+		if (!existing) document.body.appendChild(canvas);
+
+		const ctx = canvas.getContext('2d');
+
+		function resize() {
+			canvas.width = window.innerWidth;
+			canvas.height = window.innerHeight;
+		}
+		resize();
+		window.addEventListener('resize', resize);
+
+		const stars = Array.from({length: 250}, () => ({
+			x: Math.random(),
+			y: Math.random(),
+			r: Math.random() * 1.2 + 0.2,
+			alpha: Math.random(),
+			delta: (Math.random() * 0.004 + 0.001) * (Math.random() < 0.5 ? 1 : -1)
+		}));
+
+		function draw() {
+			ctx.clearRect(0, 0, canvas.width, canvas.height);
+			stars.forEach(s => {
+				s.alpha += s.delta;
+				if (s.alpha >= 1) { s.alpha = 1; s.delta *= -1; }
+				if (s.alpha <= 0.1) { s.alpha = 0.1; s.delta *= -1; }
+				ctx.beginPath();
+				ctx.arc(s.x * canvas.width, s.y * canvas.height, s.r, 0, Math.PI * 2);
+				ctx.fillStyle = 'rgba(255,255,255,' + s.alpha + ')';
+				ctx.fill();
+			});
+			requestAnimationFrame(draw);
+		}
+		draw();
+	})();
+	</script>
+	""",
+	unsafe_allow_html=True,
+)
+
 
 def home_page() -> None:
 	st.title("Data Mining")
