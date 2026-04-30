@@ -1,3 +1,5 @@
+#streamlit run app.py
+
 from pathlib import Path
 
 import streamlit as st
@@ -81,7 +83,7 @@ st.markdown(
 			radial-gradient(2px 2px at 10% 75%, rgba(255,255,255,.85), transparent),
 			radial-gradient(ellipse at center, #111111 100%, #111111 40%, #333333 100%) !important;
 		background-attachment: fixed !important;
-		background-color: #000 !important;
+		background-color: #0d1b2a !important;
 	}
 	[data-testid="stSidebar"] {
 		background-color: rgba(10, 10, 10, 0.85) !important;
