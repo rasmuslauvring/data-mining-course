@@ -79,7 +79,7 @@ st.markdown(
 			radial-gradient(2px 2px at 65% 85%, rgba(255,255,255,.95), transparent),
 			radial-gradient(2px 2px at 80% 58%, rgba(255,255,255,.90), transparent),
 			radial-gradient(2px 2px at 10% 75%, rgba(255,255,255,.85), transparent),
-			radial-gradient(ellipse at center, #000000 0%, #111111 40%, #333333 100%) !important;
+			radial-gradient(ellipse at center, #111111 100%, #111111 40%, #333333 100%) !important;
 		background-attachment: fixed !important;
 		background-color: #000 !important;
 	}
