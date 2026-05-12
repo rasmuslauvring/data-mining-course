@@ -4,6 +4,13 @@ from pathlib import Path
 
 import streamlit as st
 
+
+st.set_page_config(
+	page_title="⛏️ Data Mining",
+	page_icon="💎",
+	layout="wide"
+)
+
 st.markdown(
 	"""
 	<style>
@@ -86,12 +93,6 @@ st.markdown(
 	unsafe_allow_html=True,
 )
 
-st.set_page_config(
-	page_title="⛏️ Data Mining",
-	page_icon="💎",
-	layout="wide"
-)
-
 
 def home_page() -> None:
 	st.title("Data Mining")
@@ -141,7 +142,7 @@ def home_page() -> None:
 					key=f"{key_prefix}_notebook_disabled",
 				)
 
-	tile_cols = st.columns(4, gap="small")
+	tile_cols = st.columns(4, gap="large")
 
 	with tile_cols[0]:
 		render_tile(
@@ -162,34 +163,9 @@ def home_page() -> None:
 			page_path="02_recap_outlier_removal/module_02_app.py",
 			image_path="02_recap_outlier_removal/images/02_cover.svg",
 			placeholder_text="Module preview",
-			notebook_label="Open in Colab",
-			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/02_recap_outlier_removal/module_02_main.ipynb",
+			notebook_label="Notebook Example",
+			notebook_link="https://erickoziel.com",
 			key_prefix="module_02",
-		)
-
-	with tile_cols[2]:
-		render_tile(
-			title="03: Transforming Variables",
-			description="Explore variable transformations such as normalization, standardization, and power transforms.",
-			page_path="03_transforming_variables/module_03_app.py",
-			image_path="03_transforming_variables/images/03_cover.svg",
-			placeholder_text="Module preview",
-			notebook_label="Open in Colab",
-			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/03_transforming_variables/module_03_main.ipynb",
-			key_prefix="module_03",
-		)
-
-
-	with tile_cols[3]:
-		render_tile(
-			title="04: Imputation of Missing Values",
-			description="Explore techniques for handling missing data, including mean, median, mode imputation, and more advanced methods.",
-			page_path="04_imputation_of_missing_values/module_04_app.py",
-			image_path="04_imputation_of_missing_values/images/04_cover.svg",
-			placeholder_text="Module preview",
-			notebook_label="Open in Colab",
-			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/04_imputation_of_missing_values/module_04_main.ipynb",
-			key_prefix="module_04",
 		)
 
 
@@ -204,21 +180,11 @@ module_02 = st.Page(
 	title="Module 02: Recap and Outlier Removal",
 	icon=":material/looks_two:"
 )
-module_03 = st.Page(
-	"03_transforming_variables/module_03_app.py",
-	title="Module 03: Transforming Variables",
-	icon=":material/looks_3:"
-)
-module_04 = st.Page(
-	"04_imputation_of_missing_values/module_04_app.py",
-	title="Module 04: Imputation of Missing Values",
-	icon=":material/looks_4:"
-)
 
 navigation = st.navigation(
 	{
 		"Course": [home],
-		"Modules": [module_01, module_02, module_03, module_04],
+		"Modules": [module_01, module_02],
 	}
 )
 
