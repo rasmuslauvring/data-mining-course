@@ -1,0 +1,7 @@
+student,study_hours,exam_score,participation
+Ana,2.0,60.0,High
+Ben,4.0,70.0,Medium
+Clara,,80.0,
+David,6.0,,Medium
+Emma,8.0,100.0,High
+Felix,,,
