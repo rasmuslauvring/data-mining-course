@@ -8,3 +8,5 @@ seaborn
 pandas
 numpy
 xlrd
+
+imbalanced-learn
