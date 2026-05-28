@@ -206,6 +206,18 @@ def home_page() -> None:
 			key_prefix="module_05",
 		)
 
+	with tile_cols_row_2[1]:
+		render_tile(
+			title="06: Rough Dimensionality Reduction",
+			description="Overview of techniques for reducing the dimensionality of datasets, including PCA, LDA, and other methods.",
+			page_path="06_rough_dimensionality_reduction/module_06_app.py",
+			image_path="06_rough_dimensionality_reduction/images/06_cover.svg",
+			placeholder_text="Module preview",
+			notebook_label="Open in Colab",
+			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/06_rough_dimensionality_reduction/module_06_main.ipynb",
+			key_prefix="module_06",
+		)
+
 	
 
 
@@ -238,11 +250,17 @@ module_05 = st.Page(
 	icon=":material/looks_5:"
 )
 
+module_06 = st.Page(
+	"06_rough_dimensionality_reduction/module_06_app.py",
+	title="Module 06: Rough Dimensionality Reduction",	
+	icon=":material/looks_6:"
+)
+
 
 navigation = st.navigation(
 	{
 		"Course": [home],
-		"Modules": [module_01, module_02, module_03, module_04, module_05],
+		"Modules": [module_01, module_02, module_03, module_04, module_05, module_06],
 	}
 )
 
