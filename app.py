@@ -218,6 +218,18 @@ def home_page() -> None:
 			key_prefix="module_06",
 		)
 
+	with tile_cols_row_2[2]:
+		render_tile(
+			title="07: Logistic Regression",
+			description="Overview of logistic regression techniques, including model fitting, evaluation, and interpretation.",
+			page_path="07_logistic_regression/module_07_app.py",
+			image_path="07_logistic_regression/images/07_cover.svg",
+			placeholder_text="Module preview",
+			notebook_label="Open in Colab",
+			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/07_logistic_regression/module_07_main.ipynb",
+			key_prefix="module_07",
+		)
+
 	
 
 
@@ -226,41 +238,39 @@ home = st.Page(home_page, title="Home", icon=":material/home:", default=True)
 module_01 = st.Page(
 	"01_introduction_to_data_mining/module_01_app.py",
 	title="Module 01: Introduction to Data Mining",
-	icon=":material/looks_one:"
 )
 module_02 = st.Page(
 	"02_recap_outlier_removal/module_02_app.py",
 	title="Module 02: Recap and Outlier Removal",
-	icon=":material/looks_two:"
 )
 module_03 = st.Page(
 	"03_transforming_variables/module_03_app.py",
 	title="Module 03: Transforming Variables",
-	icon=":material/looks_3:"
 )
 module_04 = st.Page(
 	"04_imputation_of_missing_values/module_04_app.py",
 	title="Module 04: Imputation of Missing Values",
-	icon=":material/looks_4:"
 )
 
 module_05 = st.Page(
 	"05_balancing_and_resampling/module_05_app.py",
 	title="Module 05: Balancing Datasets",	
-	icon=":material/looks_5:"
 )
 
 module_06 = st.Page(
 	"06_rough_dimensionality_reduction/module_06_app.py",
 	title="Module 06: Rough Dimensionality Reduction",	
-	icon=":material/looks_6:"
 )
 
+module_07 = st.Page(
+	"07_logistic_regression/module_07_app.py",
+	title="Module 07: Logistic Regression",	
+)
 
 navigation = st.navigation(
 	{
 		"Course": [home],
-		"Modules": [module_01, module_02, module_03, module_04, module_05, module_06],
+		"Modules": [module_01, module_02, module_03, module_04, module_05, module_06, module_07],
 	}
 )
 
