@@ -230,6 +230,31 @@ def home_page() -> None:
 			key_prefix="module_07",
 		)
 
+	with tile_cols_row_2[3]:
+		render_tile(
+			title="08: Feature Reduction, Selection and FA",
+			description="Explore techniques for feature reduction, selection, and factor analysis.",
+			page_path="08_feature_reduction_selection_and_factor_analysis/module_08_app.py",
+			image_path="08_feature_reduction_selection_and_factor_analysis/images/08_cover.svg",
+			placeholder_text="Module preview",
+			notebook_label="Open in Colab",
+			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/08_feature_reduction_selection_and_factor_analysis/module_08_main.ipynb",
+			key_prefix="module_08",
+		)
+	
+	tile_cols_row_3 = st.columns(4, gap="small")
+
+	with tile_cols_row_3[0]:
+		render_tile(
+			title="09: Confusion Matrix",
+			description="Explore the confusion matrix and its components, including accuracy, precision, recall, and F1 score.",
+			page_path="09_confusion_matrix/module_09_app.py",
+			image_path="09_confusion_matrix/images/09_cover.svg",
+			placeholder_text="Module preview",
+			notebook_label="Open in Colab",
+			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/09_confusion_matrix/module_09_main.ipynb",
+			key_prefix="module_09",
+		)
 	
 
 
@@ -267,10 +292,20 @@ module_07 = st.Page(
 	title="Module 07: Logistic Regression",	
 )
 
+module_08 = st.Page(
+	"08_feature_reduction_selection_and_factor_analysis/module_08_app.py",
+	title="Module 08: Feature Reduction, Selection and Factor Analysis",	
+)
+
+module_09 = st.Page(
+	"09_confusion_matrix/module_09_app.py",
+	title="Module 09: Confusion Matrix",	
+)
+
 navigation = st.navigation(
 	{
 		"Course": [home],
-		"Modules": [module_01, module_02, module_03, module_04, module_05, module_06, module_07],
+		"Modules": [module_01, module_02, module_03, module_04, module_05, module_06, module_07, module_08, module_09],
 	}
 )
 

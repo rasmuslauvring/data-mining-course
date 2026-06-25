@@ -12,7 +12,7 @@ Replace `OWNER/REPO` in links below with your GitHub repository path after publi
 | 04 | Imputation of Missing Values | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/04_imputation_of_missing_values/module_04_main.ipynb) |
 | 05 | Balancing and Resampling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/05_balancing_and_resampling/module_05_main.ipynb) |
 | 06 | Rough Dimensionality Reduction | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/06_rough_dimensionality_reduction/module_06_main.ipynb) |
-| 07 | Logistic Regression | |
+| 07 | Logistic Regression | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/09_confusion_matrix/module_09_main.ipynb) |
 | 08 | Feature Reduction, Selection and Factor Analysis | |
 | 09 | Confusion Matrix | |
 | 10 | Cross Validation | |
