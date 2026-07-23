@@ -1,0 +1,421 @@
+customer_id,customer_tenure_months,monthly_fee,support_tickets_90d,usage_score,late_payments_12m,contract_type,customer_segment,renewed_subscription
+10001,68,20.05,1,88.0,1,monthly,small business,0
+10002,45,52.62,3,52.9,1,monthly,consumer,0
+10003,49,28.8,2,72.5,1,annual,consumer,1
+10004,64,41.84,0,49.0,0,annual,consumer,1
+10005,42,52.92,2,52.6,1,annual,consumer,0
+10006,56,20.63,1,53.6,0,annual,consumer,1
+10007,60,14.57,2,62.4,1,annual,small business,1
+10008,16,45.37,0,67.7,1,monthly,consumer,1
+10009,4,42.58,1,73.3,0,annual,consumer,1
+10010,22,38.8,0,38.9,0,monthly,consumer,0
+10011,21,42.5,0,100.0,0,monthly,enterprise,1
+10012,63,30.81,0,86.3,1,monthly,small business,1
+10013,65,22.32,0,78.4,0,annual,consumer,1
+10014,1,39.83,1,58.4,0,annual,consumer,0
+10015,36,29.37,2,63.4,0,annual,enterprise,1
+10016,59,20.63,1,75.1,1,monthly,enterprise,1
+10017,10,48.57,0,72.6,0,annual,small business,0
+10018,57,41.2,0,34.0,1,annual,enterprise,0
+10019,9,47.28,3,78.7,0,annual,consumer,0
+10020,34,29.14,3,100.0,0,annual,consumer,1
+10021,58,33.45,1,30.9,0,annual,enterprise,1
+10022,22,29.01,1,83.4,1,monthly,consumer,1
+10023,25,30.47,0,71.8,0,monthly,consumer,0
+10024,20,44.54,2,62.9,0,monthly,small business,0
+10025,52,31.82,2,90.3,0,annual,consumer,1
+10026,19,46.63,1,43.2,0,monthly,small business,1
+10027,71,46.42,0,68.0,0,monthly,consumer,1
+10028,32,68.33,3,92.0,0,monthly,consumer,0
+10029,34,23.89,1,61.4,0,monthly,enterprise,1
+10030,36,53.54,3,57.3,1,monthly,consumer,0
+10031,42,40.84,0,67.1,1,monthly,consumer,0
+10032,40,41.82,1,56.8,1,annual,small business,1
+10033,37,23.15,0,93.6,1,monthly,consumer,1
+10034,71,36.02,2,48.2,0,monthly,enterprise,0
+10035,58,51.66,2,81.1,1,annual,small business,1
+10036,57,40.93,0,41.8,0,annual,enterprise,1
+10037,50,43.05,1,77.4,0,annual,consumer,1
+10038,45,38.22,2,63.1,0,annual,consumer,1
+10039,25,57.01,2,17.2,0,annual,consumer,1
+10040,71,41.72,0,64.9,0,monthly,consumer,0
+10041,34,13.39,0,45.3,0,monthly,consumer,1
+10042,16,33.0,2,56.8,0,annual,consumer,1
+10043,61,16.41,1,93.5,0,monthly,consumer,1
+10044,12,12.0,2,44.3,1,annual,small business,0
+10045,61,35.11,0,45.4,0,monthly,small business,1
+10046,44,59.34,1,91.7,1,monthly,consumer,1
+10047,9,42.61,2,67.1,0,annual,small business,0
+10048,4,26.76,2,93.5,0,monthly,consumer,0
+10049,32,29.77,0,71.0,0,monthly,consumer,1
+10050,3,56.7,1,48.7,0,annual,consumer,1
+10051,11,44.05,1,63.8,1,monthly,small business,0
+10052,37,42.62,1,87.8,2,annual,consumer,1
+10053,69,41.3,2,82.4,0,monthly,consumer,1
+10054,34,42.5,0,65.0,0,monthly,consumer,1
+10055,58,52.47,0,65.9,0,monthly,consumer,0
+10056,66,49.18,0,62.9,0,monthly,consumer,1
+10057,59,44.8,0,54.3,1,monthly,small business,1
+10058,45,28.44,0,100.0,1,annual,consumer,1
+10059,32,48.64,0,65.1,0,monthly,consumer,0
+10060,37,33.1,1,44.1,0,monthly,consumer,1
+10061,19,56.22,1,56.2,1,monthly,consumer,0
+10062,36,25.48,0,78.4,0,annual,enterprise,1
+10063,27,40.21,1,76.9,1,annual,consumer,0
+10064,18,41.9,0,62.5,0,monthly,consumer,1
+10065,71,24.78,2,52.6,0,annual,consumer,1
+10066,1,64.39,2,65.4,0,annual,consumer,0
+10067,7,60.99,1,34.0,0,monthly,small business,0
+10068,14,35.97,0,40.9,0,monthly,small business,0
+10069,69,52.03,1,79.8,1,annual,consumer,1
+10070,50,46.92,1,56.1,0,monthly,enterprise,1
+10071,63,12.0,2,71.9,1,annual,consumer,1
+10072,15,45.26,2,87.5,0,monthly,small business,1
+10073,52,41.2,1,77.0,0,monthly,enterprise,1
+10074,27,43.08,0,65.4,0,monthly,consumer,1
+10075,35,28.0,2,100.0,0,monthly,small business,1
+10076,1,38.5,2,77.4,0,monthly,consumer,1
+10077,44,39.68,1,58.4,0,monthly,consumer,1
+10078,59,57.45,2,78.5,0,monthly,small business,1
+10079,48,46.35,1,72.5,0,monthly,consumer,1
+10080,11,41.93,2,49.2,1,monthly,consumer,0
+10081,38,61.88,2,66.4,0,monthly,enterprise,1
+10082,19,34.78,3,61.9,0,monthly,small business,0
+10083,69,36.94,2,28.6,0,annual,enterprise,1
+10084,63,18.38,2,61.8,0,monthly,consumer,0
+10085,14,62.4,1,59.8,1,annual,small business,0
+10086,37,54.54,0,56.9,2,monthly,consumer,0
+10087,67,53.92,0,34.6,1,annual,consumer,1
+10088,61,50.7,2,58.4,0,monthly,consumer,1
+10089,51,43.43,1,64.3,0,monthly,small business,1
+10090,46,44.8,0,66.9,0,monthly,consumer,0
+10091,3,38.72,0,44.0,1,annual,small business,0
+10092,53,39.35,1,76.7,0,monthly,consumer,1
+10093,34,42.71,1,42.5,0,monthly,consumer,1
+10094,7,61.65,1,60.9,1,monthly,enterprise,1
+10095,18,49.22,0,89.1,0,annual,consumer,0
+10096,39,41.24,2,52.2,1,monthly,consumer,0
+10097,52,34.47,1,55.5,0,monthly,enterprise,1
+10098,37,33.75,1,84.9,0,annual,consumer,1
+10099,44,62.84,0,57.9,0,annual,consumer,1
+10100,62,48.59,1,59.5,0,annual,small business,0
+10101,49,42.88,1,69.1,0,monthly,consumer,1
+10102,26,37.5,1,84.4,1,monthly,consumer,0
+10103,46,27.58,1,24.2,0,monthly,consumer,1
+10104,43,41.13,0,49.7,0,monthly,consumer,1
+10105,8,53.36,0,46.4,0,annual,small business,1
+10106,5,36.9,1,44.9,1,monthly,consumer,1
+10107,47,39.05,3,49.2,1,monthly,enterprise,0
+10108,28,39.13,2,49.5,0,annual,consumer,0
+10109,43,43.42,1,70.6,0,annual,small business,1
+10110,23,21.29,0,48.6,1,annual,small business,1
+10111,17,38.94,0,67.3,0,monthly,enterprise,1
+10112,11,30.89,1,72.4,0,monthly,small business,0
+10113,28,53.5,0,51.5,0,monthly,small business,1
+10114,58,31.98,1,67.4,0,annual,small business,1
+10115,29,49.5,0,95.2,0,annual,enterprise,1
+10116,27,61.82,2,70.9,0,annual,consumer,0
+10117,41,37.92,1,53.2,0,annual,consumer,1
+10118,70,34.18,0,63.8,1,monthly,consumer,1
+10119,28,44.49,3,48.1,1,annual,consumer,0
+10120,42,41.97,1,70.0,0,monthly,consumer,1
+10121,32,29.08,0,80.9,0,monthly,consumer,1
+10122,43,47.99,0,49.9,1,monthly,consumer,1
+10123,32,68.2,0,61.1,0,monthly,consumer,0
+10124,46,38.64,1,85.5,0,monthly,small business,1
+10125,39,39.36,0,55.8,0,monthly,consumer,1
+10126,49,28.42,2,68.5,0,monthly,small business,1
+10127,68,46.15,0,46.2,0,annual,small business,0
+10128,11,25.79,2,49.9,0,monthly,enterprise,0
+10129,40,27.61,1,55.6,0,monthly,consumer,1
+10130,32,58.64,0,100.0,0,annual,small business,1
+10131,26,30.23,3,57.6,0,annual,consumer,1
+10132,18,56.06,1,55.5,0,annual,consumer,1
+10133,4,61.82,1,54.9,0,annual,small business,1
+10134,29,45.37,0,62.0,1,annual,consumer,1
+10135,59,49.19,3,76.8,0,annual,consumer,1
+10136,7,67.38,0,68.4,1,annual,small business,0
+10137,29,39.44,0,100.0,1,monthly,enterprise,1
+10138,69,34.29,2,68.8,1,monthly,consumer,1
+10139,68,24.41,2,91.1,2,annual,consumer,1
+10140,16,42.54,1,70.0,1,monthly,enterprise,1
+10141,1,61.23,1,75.9,1,monthly,small business,0
+10142,48,54.47,3,39.0,2,monthly,small business,0
+10143,2,29.75,1,62.7,0,monthly,enterprise,1
+10144,22,30.88,2,63.8,0,annual,consumer,1
+10145,36,35.45,0,60.6,1,annual,small business,1
+10146,63,45.8,2,26.2,1,monthly,consumer,1
+10147,7,39.33,1,80.9,2,monthly,consumer,0
+10148,48,44.79,3,58.0,0,annual,consumer,1
+10149,38,45.86,0,57.1,0,annual,small business,1
+10150,10,38.12,2,60.4,0,monthly,small business,1
+10151,61,41.48,2,60.9,0,annual,consumer,1
+10152,61,44.69,1,72.3,1,annual,small business,1
+10153,35,40.91,1,42.1,0,annual,small business,0
+10154,68,48.55,2,48.2,1,annual,consumer,1
+10155,44,66.32,0,70.2,2,annual,consumer,1
+10156,65,49.7,1,67.6,1,annual,small business,1
+10157,69,42.73,0,58.2,0,annual,enterprise,1
+10158,41,20.08,0,54.7,1,annual,consumer,1
+10159,20,47.04,0,50.0,0,monthly,enterprise,1
+10160,11,16.69,1,63.9,0,monthly,consumer,1
+10161,40,23.68,1,86.3,2,annual,consumer,0
+10162,14,53.11,1,46.0,1,monthly,consumer,1
+10163,54,51.18,3,92.4,0,annual,consumer,1
+10164,66,40.05,1,80.2,0,annual,small business,1
+10165,18,19.77,1,56.8,0,annual,small business,0
+10166,40,37.17,1,79.1,0,monthly,enterprise,1
+10167,4,33.18,2,38.6,0,monthly,small business,1
+10168,13,50.28,2,33.8,0,annual,consumer,1
+10169,27,71.35,1,41.8,0,monthly,consumer,0
+10170,63,44.82,0,57.6,1,annual,consumer,1
+10171,69,31.87,1,59.1,0,monthly,consumer,1
+10172,46,26.78,5,55.7,0,monthly,enterprise,0
+10173,42,41.27,1,66.8,0,monthly,small business,1
+10174,41,39.7,3,26.6,0,monthly,small business,1
+10175,5,27.03,0,73.9,3,monthly,enterprise,1
+10176,27,43.51,1,39.5,1,monthly,small business,0
+10177,70,27.04,0,53.1,0,annual,consumer,1
+10178,30,56.46,0,57.6,0,annual,enterprise,1
+10179,16,55.81,2,44.2,2,monthly,consumer,0
+10180,18,56.1,0,40.3,0,monthly,enterprise,0
+10181,51,35.84,0,46.9,2,monthly,consumer,1
+10182,3,48.69,0,64.8,0,annual,consumer,1
+10183,69,40.28,0,75.6,0,monthly,small business,1
+10184,63,36.95,1,75.2,0,annual,small business,1
+10185,41,37.59,1,47.1,0,monthly,consumer,1
+10186,34,25.1,1,50.8,0,monthly,consumer,1
+10187,55,23.23,1,48.4,0,monthly,small business,1
+10188,39,52.33,1,73.1,0,annual,small business,1
+10189,34,39.51,1,28.3,0,monthly,small business,0
+10190,23,44.81,2,87.3,0,annual,small business,1
+10191,32,55.02,2,56.3,1,annual,consumer,0
+10192,54,19.47,0,50.9,1,monthly,consumer,1
+10193,4,31.81,1,71.1,0,monthly,consumer,1
+10194,2,44.28,0,83.6,0,annual,small business,1
+10195,52,47.1,1,71.2,0,annual,small business,1
+10196,27,37.1,0,83.9,0,monthly,small business,0
+10197,58,55.38,0,67.4,1,monthly,small business,1
+10198,3,44.74,0,87.1,0,monthly,small business,1
+10199,65,26.23,1,87.4,2,annual,enterprise,1
+10200,9,29.9,1,63.2,0,monthly,consumer,0
+10201,30,52.47,3,90.9,0,annual,small business,1
+10202,69,48.03,2,68.0,1,annual,consumer,1
+10203,8,17.31,2,66.6,1,annual,enterprise,1
+10204,47,59.52,0,48.4,1,monthly,consumer,0
+10205,52,49.77,3,59.8,0,annual,consumer,1
+10206,31,59.46,3,79.0,0,monthly,consumer,1
+10207,6,37.01,1,41.4,0,annual,consumer,0
+10208,38,38.16,2,76.7,1,monthly,consumer,0
+10209,31,27.36,2,71.3,0,monthly,consumer,0
+10210,62,74.98,0,70.0,0,annual,consumer,1
+10211,49,39.72,1,25.3,1,monthly,consumer,0
+10212,25,62.64,1,63.1,0,annual,enterprise,0
+10213,5,33.59,2,76.7,1,annual,consumer,1
+10214,42,44.13,2,51.3,0,annual,consumer,1
+10215,20,20.27,1,66.6,1,monthly,small business,1
+10216,49,37.02,1,22.2,0,annual,small business,0
+10217,62,54.79,1,77.1,1,annual,small business,1
+10218,26,25.73,3,53.1,1,monthly,enterprise,0
+10219,65,55.94,1,80.7,0,annual,consumer,1
+10220,37,46.38,2,31.8,1,monthly,enterprise,0
+10221,38,28.43,2,77.5,0,monthly,consumer,0
+10222,55,35.48,1,60.7,0,monthly,consumer,1
+10223,57,36.03,1,79.5,0,monthly,consumer,1
+10224,65,41.36,0,48.3,0,annual,consumer,1
+10225,71,35.03,2,53.9,1,annual,small business,1
+10226,11,31.25,1,100.0,1,monthly,consumer,1
+10227,30,38.04,3,50.1,0,monthly,small business,0
+10228,67,28.65,2,52.3,0,annual,enterprise,1
+10229,22,25.24,1,60.0,1,monthly,enterprise,0
+10230,1,41.37,5,46.6,0,monthly,small business,1
+10231,41,53.48,1,86.4,1,annual,consumer,1
+10232,54,22.12,0,96.1,0,annual,consumer,1
+10233,53,42.05,1,52.3,1,annual,small business,1
+10234,58,33.55,2,33.9,1,annual,consumer,0
+10235,46,29.3,0,86.1,1,monthly,consumer,1
+10236,10,53.09,1,85.0,1,monthly,consumer,1
+10237,61,35.26,1,79.8,0,annual,enterprise,1
+10238,30,61.48,2,85.8,0,annual,consumer,0
+10239,61,31.86,0,49.4,0,monthly,small business,1
+10240,58,47.02,2,62.0,0,monthly,consumer,1
+10241,69,39.05,0,40.1,0,monthly,consumer,1
+10242,2,32.2,1,39.5,1,monthly,small business,0
+10243,62,49.64,3,82.7,0,monthly,small business,1
+10244,45,39.99,1,52.9,0,monthly,consumer,1
+10245,35,49.84,2,100.0,0,monthly,small business,1
+10246,57,41.39,3,66.3,1,monthly,small business,1
+10247,68,27.88,0,53.5,0,annual,consumer,1
+10248,37,40.67,1,79.4,0,monthly,enterprise,1
+10249,7,42.68,2,97.4,1,annual,consumer,1
+10250,52,54.46,0,73.8,0,annual,consumer,1
+10251,17,30.22,1,43.1,0,annual,consumer,0
+10252,17,41.49,2,71.7,0,monthly,consumer,1
+10253,14,19.62,0,89.8,0,annual,consumer,1
+10254,15,50.47,2,56.1,1,monthly,small business,1
+10255,65,27.94,1,51.1,0,annual,enterprise,1
+10256,26,18.52,1,83.3,0,annual,small business,1
+10257,8,41.23,2,67.5,1,monthly,small business,0
+10258,13,56.37,1,45.2,0,monthly,consumer,0
+10259,29,22.18,1,58.2,4,annual,consumer,0
+10260,25,27.86,2,51.4,0,monthly,consumer,0
+10261,23,32.34,0,70.3,0,monthly,small business,1
+10262,68,27.32,1,67.0,0,monthly,enterprise,1
+10263,62,46.93,1,85.7,0,monthly,consumer,1
+10264,41,31.5,0,77.8,0,annual,consumer,1
+10265,71,32.62,0,36.9,0,annual,consumer,1
+10266,25,49.58,1,72.3,1,annual,small business,1
+10267,10,32.18,3,81.1,0,monthly,small business,1
+10268,20,47.63,0,73.2,1,monthly,consumer,1
+10269,7,29.37,2,83.5,0,monthly,consumer,1
+10270,68,26.24,0,55.1,1,monthly,consumer,1
+10271,16,18.14,6,47.9,2,monthly,consumer,0
+10272,32,66.2,0,81.7,0,annual,small business,1
+10273,15,37.84,1,45.8,0,annual,consumer,1
+10274,70,45.17,2,26.1,0,annual,small business,0
+10275,12,41.6,2,83.5,0,annual,enterprise,1
+10276,37,44.08,3,52.0,1,annual,small business,1
+10277,68,42.65,0,59.5,0,annual,enterprise,1
+10278,38,66.81,1,39.8,1,annual,enterprise,1
+10279,64,28.49,0,41.1,0,annual,consumer,1
+10280,64,21.75,3,44.2,2,annual,consumer,0
+10281,55,28.84,0,58.5,0,annual,consumer,0
+10282,53,24.65,0,71.7,0,monthly,consumer,1
+10283,41,51.71,1,23.6,2,monthly,consumer,0
+10284,42,52.66,2,78.5,1,annual,consumer,1
+10285,60,29.5,1,43.7,1,monthly,small business,0
+10286,31,23.92,0,45.8,0,annual,enterprise,1
+10287,68,37.39,1,77.2,0,monthly,small business,1
+10288,63,60.08,1,63.7,0,monthly,small business,0
+10289,27,12.0,1,37.3,2,monthly,consumer,0
+10290,30,48.85,1,98.2,1,monthly,consumer,1
+10291,51,28.02,3,49.5,0,monthly,consumer,1
+10292,66,55.52,0,69.5,2,monthly,consumer,1
+10293,7,27.99,2,68.6,3,annual,consumer,0
+10294,5,38.29,1,90.4,0,monthly,enterprise,1
+10295,18,22.42,1,56.8,0,monthly,enterprise,0
+10296,31,29.3,3,83.1,0,annual,consumer,1
+10297,12,60.02,2,51.6,0,annual,small business,1
+10298,37,52.67,1,85.2,0,monthly,consumer,1
+10299,39,36.78,0,51.3,0,monthly,small business,1
+10300,68,30.69,0,58.5,1,annual,consumer,0
+10301,53,17.38,0,99.1,1,monthly,consumer,1
+10302,18,36.88,1,70.7,0,monthly,small business,0
+10303,56,41.6,2,67.0,0,annual,consumer,1
+10304,58,40.91,2,100.0,1,monthly,consumer,1
+10305,49,40.78,1,71.5,0,monthly,consumer,1
+10306,49,27.42,2,50.3,0,annual,small business,1
+10307,23,41.14,4,78.2,3,annual,consumer,0
+10308,51,41.5,1,43.7,0,monthly,small business,1
+10309,10,58.78,0,85.3,1,monthly,consumer,1
+10310,45,66.27,2,86.7,1,monthly,consumer,1
+10311,66,40.22,0,54.7,0,annual,consumer,1
+10312,69,32.04,3,53.7,0,monthly,consumer,1
+10313,22,41.16,1,68.2,2,monthly,consumer,0
+10314,24,34.1,2,65.3,1,monthly,small business,0
+10315,44,32.35,1,47.4,0,annual,consumer,1
+10316,29,41.24,2,75.2,0,annual,consumer,1
+10317,52,28.44,1,28.2,0,monthly,enterprise,1
+10318,15,49.88,3,57.2,0,annual,consumer,0
+10319,12,40.65,0,57.7,0,annual,consumer,0
+10320,4,45.25,1,60.1,0,monthly,enterprise,0
+10321,34,39.62,1,70.5,0,annual,consumer,0
+10322,16,32.55,1,42.9,0,monthly,consumer,0
+10323,22,29.68,2,75.6,1,annual,small business,1
+10324,65,38.92,1,61.8,0,monthly,consumer,1
+10325,58,34.87,1,53.3,0,monthly,small business,0
+10326,60,45.04,1,40.4,0,monthly,enterprise,1
+10327,43,41.94,1,43.7,0,annual,consumer,0
+10328,8,24.29,1,71.5,0,annual,small business,1
+10329,54,42.87,1,47.7,0,monthly,small business,1
+10330,43,24.54,2,66.2,1,monthly,consumer,1
+10331,65,33.99,0,84.1,0,monthly,small business,1
+10332,35,38.17,1,83.6,1,monthly,consumer,1
+10333,13,15.02,1,93.1,0,annual,consumer,1
+10334,43,43.19,1,59.7,0,annual,consumer,1
+10335,33,43.96,0,45.5,0,monthly,small business,0
+10336,47,39.95,1,83.4,0,monthly,consumer,1
+10337,27,36.48,2,70.6,1,annual,small business,1
+10338,22,37.14,1,85.2,0,monthly,consumer,1
+10339,9,29.3,1,65.2,1,annual,small business,1
+10340,69,38.49,0,86.5,0,annual,consumer,1
+10341,54,34.82,2,80.2,1,monthly,consumer,1
+10342,34,43.19,0,77.9,2,annual,consumer,1
+10343,17,26.35,6,74.1,0,monthly,consumer,0
+10344,45,45.06,0,72.2,0,monthly,small business,1
+10345,30,43.86,1,69.2,0,monthly,consumer,0
+10346,46,40.16,1,69.1,1,monthly,enterprise,1
+10347,7,36.29,1,82.8,0,monthly,consumer,1
+10348,14,49.18,2,55.8,1,monthly,consumer,0
+10349,53,20.36,0,96.2,0,annual,consumer,1
+10350,5,47.99,2,63.1,1,monthly,small business,0
+10351,49,45.16,0,82.7,0,monthly,consumer,0
+10352,30,45.68,1,63.4,0,annual,consumer,1
+10353,1,46.98,0,60.6,1,annual,small business,0
+10354,55,33.5,0,100.0,0,annual,small business,1
+10355,50,38.63,1,59.4,0,annual,consumer,1
+10356,58,50.28,5,42.0,0,annual,consumer,0
+10357,64,47.6,4,52.1,0,annual,consumer,1
+10358,52,44.69,0,59.3,1,annual,enterprise,1
+10359,60,22.31,2,100.0,1,monthly,consumer,1
+10360,9,48.99,1,68.7,0,monthly,enterprise,0
+10361,66,57.2,1,81.8,2,monthly,consumer,1
+10362,65,55.13,2,47.0,1,monthly,consumer,0
+10363,50,45.04,2,71.3,0,monthly,enterprise,1
+10364,57,21.75,1,77.1,0,annual,small business,1
+10365,53,54.25,2,97.4,0,annual,consumer,1
+10366,63,40.09,3,52.5,0,monthly,small business,1
+10367,64,12.0,1,75.9,0,annual,consumer,1
+10368,38,46.9,1,70.4,0,monthly,small business,0
+10369,58,22.6,1,46.6,0,annual,consumer,0
+10370,66,25.15,2,64.6,0,annual,consumer,1
+10371,22,33.75,1,60.3,0,annual,consumer,1
+10372,4,58.54,3,23.1,0,monthly,consumer,0
+10373,13,37.18,0,75.8,0,annual,enterprise,1
+10374,3,45.52,0,74.7,1,monthly,enterprise,1
+10375,31,64.72,0,57.1,0,monthly,consumer,0
+10376,2,62.72,1,40.9,0,monthly,consumer,0
+10377,19,40.66,4,91.6,0,monthly,small business,1
+10378,18,38.86,1,69.8,0,monthly,small business,0
+10379,51,25.61,0,83.3,2,monthly,consumer,0
+10380,18,32.97,2,90.4,0,monthly,enterprise,1
+10381,68,47.53,0,55.6,2,annual,consumer,0
+10382,14,47.14,1,79.6,1,annual,consumer,1
+10383,69,43.43,0,60.7,1,monthly,consumer,1
+10384,41,54.93,1,63.9,0,annual,consumer,1
+10385,18,31.96,2,63.5,0,monthly,consumer,1
+10386,3,41.27,3,65.0,0,annual,consumer,0
+10387,22,51.51,0,85.1,1,annual,enterprise,1
+10388,42,49.59,1,67.2,1,annual,consumer,1
+10389,8,55.92,0,62.2,0,monthly,enterprise,0
+10390,12,47.16,0,60.0,1,annual,consumer,1
+10391,9,37.98,0,71.1,1,monthly,consumer,0
+10392,49,46.71,4,48.9,0,monthly,consumer,0
+10393,7,28.97,1,56.0,1,monthly,enterprise,1
+10394,2,20.69,0,64.1,0,monthly,enterprise,0
+10395,33,49.55,2,54.8,1,annual,consumer,1
+10396,23,41.28,0,62.9,2,monthly,consumer,0
+10397,41,46.01,2,54.0,0,monthly,consumer,1
+10398,67,19.93,1,100.0,1,annual,enterprise,1
+10399,61,37.25,0,88.9,0,monthly,consumer,1
+10400,39,34.2,1,73.1,0,annual,small business,1
+10401,46,30.77,3,64.0,0,monthly,small business,1
+10402,58,12.68,0,100.0,0,annual,consumer,1
+10403,32,37.65,3,70.8,0,annual,consumer,1
+10404,47,53.66,1,63.4,0,monthly,enterprise,0
+10405,16,46.95,1,70.5,1,monthly,consumer,0
+10406,44,34.19,0,70.5,0,monthly,consumer,1
+10407,17,41.81,0,90.4,0,monthly,consumer,1
+10408,14,51.84,0,64.7,0,monthly,small business,1
+10409,55,12.0,3,100.0,0,annual,small business,1
+10410,41,40.38,1,49.1,3,monthly,consumer,0
+10411,27,49.06,1,77.5,0,annual,consumer,1
+10412,3,50.87,1,47.0,0,annual,enterprise,1
+10413,17,64.11,2,97.7,1,monthly,small business,1
+10414,57,56.76,3,59.0,0,monthly,enterprise,1
+10415,34,46.06,0,64.0,0,annual,small business,1
+10416,69,45.93,0,81.6,1,monthly,consumer,1
+10417,64,52.23,0,87.6,0,monthly,consumer,1
+10418,61,34.99,0,45.0,0,monthly,small business,1
+10419,2,41.48,0,58.8,1,annual,enterprise,1
+10420,4,53.78,1,39.9,0,monthly,enterprise,0

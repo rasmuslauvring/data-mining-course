@@ -255,6 +255,18 @@ def home_page() -> None:
 			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/09_confusion_matrix/module_09_main.ipynb",
 			key_prefix="module_09",
 		)
+
+	with tile_cols_row_3[1]:
+		render_tile(
+			title="10: Cross Validation",
+			description="Explore cross-validation techniques for model evaluation, including k-fold and stratified sampling methods.",
+			page_path="10_cross_validation/module_10_app.py",
+			image_path="10_cross_validation/images/10_cover.svg",
+			placeholder_text="Module preview",
+			notebook_label="Open in Colab",
+			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/10_cross_validation/module_10_main.ipynb",
+			key_prefix="module_10",
+		)
 	
 
 
@@ -302,10 +314,15 @@ module_09 = st.Page(
 	title="Module 09: Confusion Matrix",	
 )
 
+module_10 = st.Page(
+	"10_cross_validation/module_10_app.py",
+	title="Module 10: Cross Validation",	
+)
+
 navigation = st.navigation(
 	{
 		"Course": [home],
-		"Modules": [module_01, module_02, module_03, module_04, module_05, module_06, module_07, module_08, module_09],
+		"Modules": [module_01, module_02, module_03, module_04, module_05, module_06, module_07, module_08, module_09, module_10],
 	}
 )
 
