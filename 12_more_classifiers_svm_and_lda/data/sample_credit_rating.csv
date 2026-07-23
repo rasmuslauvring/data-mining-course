@@ -1,0 +1,521 @@
+income_index,savings_index,debt_ratio,relationship_years,late_payments,application_channel,credit_rating
+62.57,10.36,20.72,4.82,0,Online,Good
+42.4,11.35,51.58,6.42,0,Branch,Higher risk
+69.26,38.03,47.18,3.55,0,Branch,Good
+72.11,19.7,37.63,2.56,4,Online,Higher risk
+28.73,38.85,23.8,3.18,1,Branch,Higher risk
+38.47,16.69,22.25,4.1,3,Branch,Higher risk
+59.92,39.46,27.4,2.51,2,Online,Good
+53.26,23.58,44.68,6.49,1,Branch,Higher risk
+57.75,25.1,20.71,8.19,2,Online,Good
+45.2,40.78,43.0,1.24,1,Branch,Higher risk
+71.19,17.66,16.13,6.08,4,Branch,Higher risk
+69.67,10.71,32.73,5.34,0,Branch,Higher risk
+58.99,16.62,37.75,7.02,1,Online,Higher risk
+74.91,27.43,75.12,5.96,1,Partner,Higher risk
+65.01,3.21,13.96,1.64,1,Branch,Higher risk
+45.11,29.65,59.55,2.21,1,Partner,Higher risk
+63.53,15.53,38.4,6.09,2,Online,Good
+43.62,35.77,42.58,9.09,1,Online,Good
+71.18,0.0,37.89,0.2,0,Online,Higher risk
+57.25,12.56,43.12,7.04,1,Online,Higher risk
+55.23,1.76,33.54,9.57,1,Online,Higher risk
+47.79,12.09,59.26,5.54,2,Online,Higher risk
+76.34,24.97,28.7,7.65,4,Online,Good
+55.68,19.85,54.12,3.89,1,Branch,Higher risk
+51.58,18.96,25.69,5.64,2,Branch,Higher risk
+52.72,20.09,35.04,1.14,1,Online,Higher risk
+65.98,24.44,18.85,0.2,2,Branch,Higher risk
+63.48,9.9,43.28,8.83,2,Branch,Higher risk
+64.19,30.48,59.12,3.05,1,Branch,Higher risk
+64.46,29.95,34.76,4.63,1,Branch,Good
+90.12,26.62,32.85,1.84,2,Online,Good
+51.9,28.68,18.17,1.77,1,Online,Good
+50.32,25.56,32.33,5.48,2,Online,Higher risk
+45.79,46.42,10.52,3.81,0,Branch,Good
+67.24,20.95,21.39,7.13,3,Online,Good
+74.93,18.32,39.63,7.36,1,Online,Good
+56.29,12.96,57.1,6.96,0,Online,Higher risk
+45.4,9.61,80.95,6.72,2,Online,Higher risk
+45.63,7.07,26.61,10.73,1,Online,Good
+67.76,11.33,58.96,2.8,1,Online,Higher risk
+69.15,21.15,39.9,5.84,1,Partner,Good
+66.15,26.01,33.58,9.4,1,Online,Good
+48.02,22.61,42.92,9.79,0,Online,Higher risk
+61.48,12.81,36.99,1.73,1,Online,Higher risk
+59.75,32.8,37.77,5.06,1,Branch,Good
+61.28,30.87,29.47,10.07,3,Partner,Good
+71.07,20.08,13.63,7.52,1,Branch,Good
+61.35,14.17,11.3,6.59,1,Branch,Good
+68.18,28.58,46.45,5.35,0,Partner,Good
+59.01,24.26,31.57,4.85,1,Online,Good
+62.34,4.62,26.46,6.86,1,Branch,Higher risk
+67.47,21.18,36.14,5.24,0,Branch,Good
+36.14,25.14,48.72,5.87,1,Branch,Higher risk
+53.2,11.2,38.89,6.24,1,Online,Higher risk
+50.94,24.28,25.5,3.97,1,Branch,Higher risk
+48.42,4.54,55.62,7.6,2,Partner,Higher risk
+53.87,38.03,61.27,14.74,2,Partner,Good
+80.42,36.98,43.91,0.67,1,Online,Good
+45.01,18.97,51.58,6.97,2,Online,Higher risk
+72.52,26.36,55.87,3.72,1,Branch,Good
+32.76,0.0,54.08,7.73,2,Branch,Higher risk
+52.98,8.12,45.83,6.14,3,Online,Higher risk
+60.44,18.47,45.57,8.29,2,Branch,Higher risk
+66.79,9.13,44.31,9.53,1,Branch,Higher risk
+68.67,30.57,18.44,6.58,2,Branch,Good
+69.9,45.97,47.21,9.4,0,Branch,Good
+52.77,7.88,14.31,0.2,1,Online,Higher risk
+51.06,11.95,23.29,10.77,0,Online,Good
+70.87,24.83,56.86,7.13,0,Online,Good
+55.13,41.33,49.44,9.23,2,Online,Higher risk
+38.86,7.33,59.8,2.34,0,Online,Higher risk
+41.0,24.99,31.65,3.51,3,Online,Higher risk
+44.21,43.86,17.56,6.44,0,Online,Good
+65.46,2.18,32.15,5.95,0,Online,Good
+60.14,6.63,37.63,6.85,1,Branch,Higher risk
+68.36,16.92,37.26,9.25,0,Partner,Good
+51.59,15.75,54.14,0.7,3,Branch,Higher risk
+60.38,31.75,30.22,8.92,1,Branch,Good
+67.38,24.9,41.63,6.02,1,Branch,Good
+53.36,0.7,20.18,5.39,1,Online,Higher risk
+64.85,28.18,43.21,1.59,2,Online,Good
+48.07,15.07,36.05,7.51,1,Online,Good
+52.55,37.29,24.0,0.2,1,Partner,Higher risk
+52.27,14.47,32.23,7.95,0,Branch,Higher risk
+40.06,14.36,33.05,1.52,3,Online,Higher risk
+65.3,28.49,31.68,6.16,0,Branch,Good
+50.96,31.16,64.34,5.64,1,Online,Higher risk
+58.19,27.38,34.42,9.51,0,Branch,Good
+65.21,1.77,32.1,5.46,1,Branch,Higher risk
+64.7,28.46,2.44,3.92,0,Online,Good
+67.98,9.59,21.69,4.48,1,Online,Good
+56.52,24.82,31.79,9.82,1,Online,Higher risk
+51.65,4.92,25.03,7.61,1,Online,Good
+56.8,27.36,58.11,4.84,1,Online,Higher risk
+32.69,12.32,33.36,5.29,2,Online,Higher risk
+36.29,6.61,56.62,1.3,0,Branch,Higher risk
+38.16,30.57,36.99,7.17,0,Branch,Good
+43.04,24.9,36.6,0.72,0,Branch,Higher risk
+64.0,14.63,34.58,8.26,1,Branch,Higher risk
+44.42,39.41,36.06,6.39,1,Online,Good
+52.33,16.71,63.5,13.16,2,Online,Good
+77.49,22.39,0.0,2.7,0,Online,Good
+52.66,25.23,3.98,5.69,0,Online,Good
+69.06,14.56,27.31,11.39,1,Online,Good
+44.0,27.65,36.23,9.57,1,Online,Good
+54.92,15.6,47.04,3.91,2,Branch,Higher risk
+43.75,17.06,43.57,6.67,1,Branch,Higher risk
+52.91,38.35,29.85,6.01,1,Online,Good
+70.6,9.51,52.3,6.85,2,Online,Higher risk
+32.09,0.0,52.48,3.9,1,Branch,Higher risk
+64.52,41.33,38.94,5.73,1,Branch,Good
+61.57,52.59,51.4,1.21,1,Online,Good
+49.09,17.14,40.36,6.41,1,Online,Higher risk
+36.31,0.0,27.02,7.35,0,Branch,Higher risk
+59.08,18.27,47.17,5.32,1,Online,Higher risk
+50.06,18.57,37.77,1.15,2,Partner,Higher risk
+61.49,19.72,36.02,8.97,2,Branch,Good
+58.33,8.64,59.57,7.09,0,Partner,Higher risk
+82.03,28.95,0.0,3.82,0,Branch,Good
+54.41,28.29,13.32,5.16,0,Online,Good
+42.65,4.07,17.01,1.5,2,Online,Higher risk
+60.69,30.39,30.19,2.92,1,Branch,Good
+61.3,46.63,31.93,4.39,2,Partner,Good
+78.39,24.06,11.88,9.69,0,Online,Good
+70.53,17.95,20.24,4.08,2,Partner,Higher risk
+63.35,20.3,22.23,7.92,0,Branch,Good
+79.95,29.38,75.32,4.39,0,Partner,Good
+40.17,1.23,64.83,6.74,2,Partner,Higher risk
+48.4,23.97,29.41,5.58,3,Online,Higher risk
+44.1,17.31,30.18,8.62,1,Branch,Higher risk
+52.15,44.17,17.61,4.4,2,Online,Good
+37.35,19.91,5.47,1.28,2,Online,Higher risk
+67.53,42.01,34.13,1.85,1,Partner,Good
+54.67,8.76,20.03,4.4,0,Online,Good
+35.94,29.05,34.64,2.25,1,Branch,Higher risk
+42.77,25.83,10.4,7.23,1,Branch,Good
+62.7,11.57,23.81,4.6,0,Online,Good
+70.57,24.13,38.38,13.12,1,Partner,Good
+87.95,36.55,41.86,0.79,2,Branch,Good
+101.71,18.11,42.68,6.61,3,Online,Good
+64.22,1.7,14.87,2.62,2,Partner,Higher risk
+43.16,21.79,49.67,4.52,3,Branch,Higher risk
+26.02,11.17,23.2,6.42,3,Branch,Higher risk
+62.02,17.89,46.13,0.2,0,Online,Good
+45.81,21.02,35.83,6.71,1,Online,Higher risk
+51.77,1.53,13.98,11.71,1,Branch,Higher risk
+48.82,2.61,30.94,4.64,1,Online,Good
+55.89,27.78,41.85,6.78,2,Online,Good
+73.99,15.73,45.81,9.07,3,Partner,Good
+60.36,0.0,33.74,5.51,1,Partner,Higher risk
+55.62,31.42,60.51,4.26,0,Online,Higher risk
+42.47,25.27,52.12,0.2,3,Online,Higher risk
+32.88,13.43,31.89,7.92,1,Branch,Higher risk
+50.71,6.2,48.0,5.66,3,Online,Higher risk
+57.19,32.03,66.94,2.96,1,Branch,Higher risk
+84.52,26.19,67.37,6.38,3,Online,Good
+59.95,50.59,16.35,4.25,0,Branch,Good
+72.74,27.04,21.18,4.41,0,Online,Higher risk
+50.51,26.65,59.76,7.82,0,Branch,Higher risk
+40.23,20.0,19.07,1.98,2,Branch,Good
+43.52,31.8,14.84,9.14,0,Branch,Good
+47.12,29.5,28.22,1.81,0,Online,Higher risk
+89.93,37.02,42.72,4.01,1,Online,Good
+45.68,15.74,34.36,11.77,1,Branch,Higher risk
+70.58,16.78,25.59,9.38,1,Partner,Higher risk
+44.46,16.25,25.21,6.29,2,Partner,Higher risk
+71.97,31.49,24.6,3.18,0,Branch,Good
+63.77,39.98,21.93,4.41,3,Online,Higher risk
+55.65,16.49,72.51,6.22,0,Online,Higher risk
+57.39,16.9,40.76,6.11,2,Branch,Higher risk
+48.18,25.77,50.19,5.73,3,Online,Higher risk
+64.69,19.05,28.17,5.91,0,Branch,Good
+51.18,33.42,33.02,5.36,4,Partner,Higher risk
+39.62,0.0,24.58,1.67,1,Partner,Higher risk
+38.83,12.08,0.0,4.45,0,Online,Higher risk
+60.59,12.61,13.95,8.74,0,Online,Good
+81.69,0.0,7.03,1.89,1,Online,Higher risk
+60.4,10.44,0.0,5.43,0,Partner,Good
+56.22,11.02,16.87,3.54,1,Branch,Good
+62.29,19.59,57.2,6.33,0,Branch,Good
+77.59,35.36,35.29,4.83,1,Online,Good
+61.29,19.06,56.65,10.43,2,Branch,Higher risk
+51.84,9.63,42.58,7.52,4,Branch,Higher risk
+74.59,21.32,48.52,2.06,2,Branch,Higher risk
+64.43,34.59,21.59,8.01,3,Online,Good
+81.04,10.29,44.38,3.68,0,Branch,Higher risk
+60.75,11.07,47.66,4.27,1,Branch,Higher risk
+39.63,28.7,26.77,6.94,1,Branch,Good
+37.48,19.34,44.95,4.52,0,Online,Higher risk
+82.76,29.77,45.06,8.68,1,Partner,Good
+83.85,21.84,27.21,3.68,1,Branch,Higher risk
+55.31,30.42,18.04,4.14,1,Online,Good
+52.25,9.58,17.05,4.03,1,Online,Higher risk
+79.92,21.85,37.38,4.3,2,Branch,Good
+41.39,19.47,41.23,9.3,1,Online,Higher risk
+44.58,7.41,23.32,7.89,0,Online,Good
+67.65,3.24,36.43,11.13,1,Online,Higher risk
+52.08,30.23,45.13,12.8,3,Branch,Good
+57.92,17.79,45.89,2.91,1,Branch,Higher risk
+55.55,9.73,60.83,6.21,0,Partner,Higher risk
+63.06,20.85,56.43,2.47,0,Online,Higher risk
+79.11,35.54,19.98,3.67,2,Partner,Good
+59.36,0.0,62.94,4.11,3,Partner,Higher risk
+67.66,4.04,27.5,2.83,3,Branch,Higher risk
+27.25,10.93,52.72,2.84,1,Online,Higher risk
+57.27,39.53,37.09,5.57,1,Online,Higher risk
+45.35,25.39,29.41,2.35,0,Online,Good
+39.72,31.21,7.08,8.53,0,Branch,Good
+44.83,8.32,33.25,3.25,1,Branch,Higher risk
+52.99,8.57,11.05,14.43,0,Online,Good
+71.74,27.37,51.48,4.65,1,Online,Higher risk
+38.1,22.7,60.27,6.22,3,Online,Higher risk
+58.46,28.58,23.25,2.11,0,Branch,Good
+50.74,19.75,40.83,11.12,1,Branch,Good
+53.08,25.34,24.39,9.36,3,Partner,Higher risk
+73.04,23.9,25.94,6.89,2,Online,Good
+66.07,31.33,48.39,1.96,0,Online,Higher risk
+78.06,31.68,35.38,6.63,0,Online,Good
+55.68,2.56,63.83,2.64,1,Online,Higher risk
+47.56,0.0,28.28,10.39,1,Online,Higher risk
+54.64,34.02,51.99,8.43,3,Online,Higher risk
+61.64,36.25,37.56,6.29,0,Online,Good
+60.65,9.75,48.73,0.2,1,Partner,Higher risk
+41.73,0.0,28.85,3.05,5,Partner,Higher risk
+59.36,23.19,35.21,8.06,2,Online,Higher risk
+61.42,33.17,34.15,9.64,1,Online,Good
+95.76,43.57,22.62,9.33,0,Online,Good
+86.15,28.2,46.59,1.22,0,Online,Good
+45.2,17.54,46.4,6.9,0,Online,Higher risk
+53.69,11.28,45.5,9.05,2,Online,Higher risk
+36.05,22.14,60.59,1.02,1,Online,Higher risk
+49.14,18.41,59.19,5.98,1,Online,Higher risk
+62.73,9.82,30.0,6.82,1,Online,Good
+76.09,46.59,41.97,5.1,3,Branch,Good
+47.06,43.42,26.02,0.44,0,Online,Higher risk
+48.19,35.63,36.37,5.02,4,Online,Higher risk
+25.79,10.95,26.4,5.02,3,Branch,Higher risk
+55.56,32.26,61.92,5.56,2,Partner,Higher risk
+42.06,29.68,41.82,4.31,1,Online,Good
+50.06,27.31,32.51,4.67,0,Branch,Higher risk
+44.85,37.0,55.1,5.88,2,Online,Higher risk
+56.59,29.62,1.27,7.33,0,Online,Good
+31.63,30.88,3.77,5.09,3,Online,Higher risk
+35.99,29.64,48.73,4.77,1,Online,Higher risk
+89.94,26.09,36.97,6.28,1,Partner,Good
+38.69,0.6,40.01,0.24,1,Online,Higher risk
+41.55,23.0,14.78,7.43,1,Online,Good
+85.55,15.33,35.63,6.0,2,Branch,Good
+101.58,6.64,68.06,6.12,1,Online,Good
+40.43,42.18,49.19,8.88,1,Online,Good
+52.48,42.75,38.72,0.2,1,Online,Good
+63.12,38.31,28.98,0.2,1,Online,Good
+83.93,25.06,29.69,6.82,1,Online,Good
+43.2,38.21,1.93,5.98,2,Online,Good
+54.32,22.14,40.12,6.51,3,Branch,Higher risk
+69.66,24.43,49.53,4.61,1,Partner,Good
+64.52,8.88,10.79,7.99,2,Online,Good
+52.36,26.76,25.42,8.8,1,Partner,Good
+55.99,22.72,17.48,7.45,2,Partner,Good
+37.38,6.37,20.55,5.22,1,Partner,Higher risk
+54.43,21.39,36.86,0.2,0,Online,Higher risk
+54.0,21.04,2.65,8.31,2,Online,Good
+61.48,43.57,45.83,9.67,0,Branch,Good
+49.67,32.73,48.06,7.93,0,Online,Good
+65.07,22.14,31.98,3.36,1,Online,Good
+73.19,24.99,0.0,8.02,2,Online,Good
+60.33,22.53,20.06,8.58,1,Partner,Good
+63.28,19.57,55.73,10.68,1,Branch,Higher risk
+58.8,9.01,0.0,3.37,1,Online,Good
+58.0,20.19,30.44,5.32,2,Online,Good
+47.18,13.05,17.12,8.24,2,Online,Higher risk
+62.75,7.0,48.87,6.17,0,Branch,Higher risk
+56.54,28.13,25.2,2.65,1,Branch,Good
+89.4,26.7,42.46,7.24,0,Online,Good
+81.6,0.56,45.05,7.74,1,Online,Good
+63.79,20.53,65.38,6.26,2,Branch,Higher risk
+46.55,33.95,32.75,6.66,0,Branch,Good
+41.31,34.71,42.02,5.22,1,Online,Higher risk
+75.87,34.31,12.24,10.43,1,Branch,Good
+61.94,22.47,55.05,3.3,1,Online,Higher risk
+65.2,11.86,23.83,4.24,0,Online,Good
+31.83,9.0,27.03,6.03,1,Branch,Higher risk
+71.91,26.14,35.64,8.64,0,Online,Good
+64.82,26.55,10.99,1.51,2,Branch,Good
+41.34,37.45,39.66,2.07,4,Branch,Higher risk
+50.93,35.2,51.48,0.2,3,Partner,Higher risk
+61.96,20.41,40.69,6.1,1,Online,Higher risk
+58.79,7.07,10.58,2.65,2,Partner,Higher risk
+53.62,18.17,34.02,4.85,2,Branch,Higher risk
+56.45,24.61,47.87,7.98,2,Branch,Higher risk
+54.22,19.58,5.95,4.08,1,Online,Good
+60.29,15.07,18.8,6.69,2,Online,Good
+80.07,25.03,50.02,5.1,0,Partner,Good
+19.5,15.95,40.32,8.02,0,Branch,Higher risk
+54.45,14.46,42.59,7.43,0,Partner,Higher risk
+60.65,25.74,65.75,3.92,1,Partner,Higher risk
+62.44,17.18,43.5,5.49,0,Online,Higher risk
+52.42,24.93,46.53,9.13,2,Branch,Higher risk
+31.65,25.28,79.37,7.18,3,Online,Higher risk
+62.92,8.33,32.58,1.81,4,Branch,Higher risk
+83.91,16.23,23.23,7.97,1,Online,Good
+34.99,39.25,42.84,2.75,3,Online,Higher risk
+70.96,8.06,43.02,10.24,1,Partner,Good
+53.07,0.0,27.57,9.07,0,Online,Higher risk
+57.08,0.0,19.48,6.87,1,Online,Higher risk
+42.21,22.35,72.96,6.47,0,Online,Higher risk
+52.98,22.37,41.23,5.37,0,Online,Good
+77.5,20.59,24.28,8.04,0,Partner,Good
+66.74,36.57,50.65,4.89,2,Branch,Good
+83.98,0.0,34.25,6.71,0,Partner,Good
+75.66,26.75,31.95,8.62,1,Online,Good
+64.59,40.74,45.0,4.31,1,Partner,Higher risk
+84.16,8.47,15.33,4.15,1,Online,Good
+64.58,17.44,41.64,2.42,1,Online,Good
+70.42,12.97,66.61,2.81,4,Branch,Higher risk
+53.55,11.27,43.46,0.51,2,Online,Higher risk
+59.0,18.08,29.98,8.19,1,Branch,Good
+47.54,39.13,27.89,11.43,3,Branch,Good
+72.84,44.05,29.43,10.28,0,Online,Good
+40.33,17.97,31.94,1.12,1,Branch,Higher risk
+69.74,44.86,29.96,8.17,2,Online,Good
+55.14,22.43,50.66,10.27,0,Online,Good
+75.57,43.04,8.27,4.63,0,Branch,Good
+69.26,20.88,49.79,6.3,1,Online,Good
+85.31,23.57,29.93,0.2,0,Branch,Good
+68.96,26.39,42.03,6.8,1,Online,Good
+34.42,60.15,17.97,2.81,1,Online,Good
+57.0,32.22,57.26,6.6,1,Online,Higher risk
+40.42,13.51,55.93,1.32,3,Online,Higher risk
+50.23,33.63,51.35,7.63,2,Partner,Good
+80.67,17.66,11.76,9.07,1,Online,Good
+67.56,16.12,49.27,3.65,0,Online,Higher risk
+47.52,32.9,42.48,2.59,1,Online,Higher risk
+42.79,22.37,10.32,0.2,1,Online,Good
+58.49,25.34,35.61,5.2,1,Branch,Higher risk
+39.75,22.17,41.83,4.26,1,Online,Higher risk
+47.93,26.04,44.9,1.35,0,Branch,Higher risk
+62.68,27.1,38.84,7.36,0,Online,Good
+75.33,0.0,40.66,4.65,0,Branch,Higher risk
+67.13,30.0,59.58,2.77,0,Branch,Good
+23.63,10.22,55.62,4.34,0,Partner,Higher risk
+62.57,4.69,0.0,9.21,1,Partner,Good
+59.08,21.3,30.92,7.81,0,Partner,Higher risk
+64.21,23.01,33.37,5.61,0,Partner,Good
+82.24,13.68,7.97,7.86,0,Online,Good
+27.05,31.97,37.51,2.52,1,Branch,Higher risk
+49.13,5.89,55.98,6.1,1,Branch,Higher risk
+66.86,17.12,18.61,6.44,0,Online,Good
+34.28,14.98,41.38,4.59,1,Branch,Higher risk
+80.14,21.44,21.35,7.31,0,Partner,Good
+63.53,25.35,25.25,3.66,0,Branch,Good
+70.7,9.91,59.64,7.53,4,Branch,Higher risk
+49.44,30.69,27.32,7.66,1,Branch,Good
+70.21,22.76,43.4,0.2,1,Branch,Higher risk
+74.03,0.0,6.06,9.57,2,Branch,Good
+61.49,0.0,65.8,0.2,2,Online,Higher risk
+61.52,21.85,45.64,4.15,1,Branch,Higher risk
+62.06,19.35,33.08,9.08,3,Online,Higher risk
+45.05,20.76,45.21,5.05,2,Partner,Higher risk
+55.79,21.66,13.44,1.6,0,Online,Good
+55.71,24.71,54.92,2.72,0,Online,Higher risk
+63.75,33.37,30.82,9.08,1,Online,Good
+73.0,8.67,32.73,0.24,2,Branch,Higher risk
+42.12,7.94,28.13,9.39,0,Branch,Higher risk
+56.12,8.88,26.71,5.83,1,Partner,Higher risk
+80.22,25.47,47.11,2.42,2,Online,Higher risk
+46.85,36.94,40.09,4.25,1,Branch,Good
+45.67,16.82,46.43,2.95,1,Online,Higher risk
+61.03,0.0,35.86,8.6,3,Online,Higher risk
+70.67,1.55,44.21,8.2,1,Online,Good
+58.17,12.0,29.3,0.84,0,Online,Good
+77.93,15.31,71.68,4.79,0,Partner,Higher risk
+70.85,17.1,10.91,3.41,1,Online,Good
+70.63,22.46,56.17,9.88,1,Online,Good
+66.31,18.26,57.89,1.95,0,Branch,Higher risk
+92.91,34.59,22.37,10.81,1,Branch,Good
+54.92,13.89,71.67,5.9,3,Partner,Higher risk
+27.95,11.65,51.93,2.51,1,Online,Higher risk
+82.06,27.75,51.54,3.97,2,Online,Higher risk
+51.13,3.57,36.45,3.6,0,Online,Higher risk
+59.62,26.68,32.52,2.18,0,Branch,Good
+77.64,23.23,32.65,6.28,0,Online,Higher risk
+33.97,20.23,42.25,2.32,3,Branch,Higher risk
+39.23,41.06,58.42,0.2,1,Online,Higher risk
+33.98,14.53,38.9,4.86,1,Online,Higher risk
+46.09,46.72,21.42,0.59,0,Branch,Good
+64.59,19.29,49.19,3.74,1,Branch,Higher risk
+65.86,6.68,50.74,3.27,2,Online,Higher risk
+62.14,22.84,46.47,3.39,3,Branch,Higher risk
+36.81,9.09,47.93,12.0,3,Branch,Higher risk
+23.35,12.98,31.67,6.17,0,Online,Higher risk
+58.82,26.76,21.14,6.74,0,Online,Good
+50.92,28.67,22.11,0.67,1,Online,Good
+64.89,14.53,9.83,4.04,0,Branch,Good
+68.53,33.85,39.79,6.65,0,Partner,Good
+60.07,35.89,34.66,2.93,1,Branch,Higher risk
+69.4,39.24,28.96,8.72,3,Branch,Good
+61.44,28.35,0.0,2.39,2,Branch,Good
+65.95,38.36,16.04,5.14,1,Branch,Good
+47.43,0.0,53.93,4.24,1,Branch,Higher risk
+55.31,18.19,25.37,6.49,2,Branch,Higher risk
+60.95,11.6,41.77,4.08,1,Branch,Higher risk
+70.31,23.43,13.75,5.19,2,Online,Good
+52.09,15.14,59.02,5.29,0,Partner,Higher risk
+65.82,20.01,33.7,3.8,1,Branch,Higher risk
+54.01,44.59,40.64,7.46,3,Branch,Higher risk
+56.24,19.96,73.21,6.72,2,Partner,Higher risk
+70.44,26.97,60.26,5.73,1,Partner,Higher risk
+28.1,19.21,31.09,4.71,1,Online,Higher risk
+38.55,22.91,26.51,8.39,1,Branch,Good
+35.77,22.07,30.79,5.29,1,Online,Higher risk
+23.0,27.38,44.16,5.08,0,Branch,Higher risk
+47.83,35.98,34.32,6.31,2,Branch,Good
+69.24,41.77,29.68,11.09,1,Online,Good
+53.73,25.72,59.47,1.98,0,Online,Higher risk
+60.97,29.07,34.17,8.31,0,Online,Good
+74.34,8.19,72.79,0.32,3,Online,Higher risk
+77.92,20.95,37.45,6.65,0,Branch,Good
+56.96,33.28,64.57,10.73,1,Branch,Higher risk
+78.3,32.39,41.72,7.47,3,Online,Good
+59.38,24.54,51.41,6.51,2,Partner,Good
+45.44,32.64,24.41,4.32,1,Branch,Good
+49.08,27.89,22.34,6.09,1,Online,Good
+35.79,36.4,43.36,5.24,3,Branch,Higher risk
+44.68,25.47,51.82,3.64,1,Branch,Higher risk
+52.63,17.73,36.64,5.13,0,Online,Good
+70.05,26.03,15.42,6.6,0,Branch,Good
+83.81,0.0,14.24,3.7,1,Online,Good
+37.27,26.59,13.17,3.58,0,Online,Good
+63.89,0.0,7.72,1.92,2,Branch,Good
+42.39,1.32,37.75,7.17,1,Branch,Higher risk
+65.12,27.42,54.0,7.64,2,Branch,Higher risk
+56.03,27.73,35.79,6.69,5,Partner,Higher risk
+30.54,8.05,0.0,8.9,2,Online,Good
+71.92,13.45,32.95,6.26,0,Online,Higher risk
+48.92,38.45,33.4,7.18,0,Branch,Good
+49.99,16.19,69.54,6.91,3,Online,Higher risk
+41.95,48.92,12.69,5.73,0,Branch,Good
+48.19,21.98,29.75,4.41,1,Online,Good
+64.42,26.9,63.29,12.64,5,Online,Higher risk
+55.16,41.4,43.2,4.64,0,Online,Good
+62.93,23.57,45.01,4.0,0,Branch,Higher risk
+63.43,9.97,37.83,7.3,1,Branch,Good
+77.81,20.68,41.28,6.76,0,Branch,Good
+52.86,21.57,48.44,1.79,1,Online,Higher risk
+35.85,5.62,23.05,9.37,4,Partner,Higher risk
+74.01,18.93,50.05,5.72,1,Branch,Higher risk
+53.03,13.09,14.03,2.67,1,Online,Higher risk
+74.72,33.09,41.25,9.57,0,Online,Good
+63.75,22.42,38.86,7.88,2,Branch,Good
+56.03,18.61,26.14,2.21,1,Branch,Higher risk
+63.23,20.73,35.64,11.33,1,Branch,Good
+87.27,24.68,26.04,7.98,0,Online,Good
+89.15,29.4,18.85,5.97,0,Online,Good
+59.04,10.0,30.34,10.77,1,Online,Good
+60.4,9.5,18.34,6.48,1,Partner,Higher risk
+74.14,35.26,41.16,5.92,0,Online,Good
+45.32,17.05,17.6,4.02,1,Partner,Higher risk
+63.0,5.0,47.39,7.75,2,Online,Higher risk
+57.61,27.33,17.1,7.43,1,Partner,Good
+62.71,27.56,26.94,6.04,0,Online,Good
+45.5,3.63,26.01,3.63,3,Online,Higher risk
+34.16,24.75,57.2,6.39,1,Online,Higher risk
+26.91,30.83,41.28,5.79,1,Partner,Higher risk
+41.24,26.49,32.61,2.0,1,Online,Higher risk
+51.12,29.58,43.98,1.58,3,Online,Higher risk
+53.6,5.15,2.28,7.7,1,Online,Good
+87.06,25.97,35.31,0.2,0,Partner,Good
+74.59,18.37,67.96,6.62,1,Online,Higher risk
+43.57,16.21,38.12,4.57,0,Online,Good
+63.22,32.45,37.09,9.92,0,Online,Good
+51.89,39.75,44.77,4.52,1,Partner,Good
+53.73,43.53,50.33,7.98,0,Branch,Higher risk
+60.78,37.78,4.04,4.81,1,Online,Good
+67.29,20.68,9.08,6.34,2,Online,Good
+52.91,26.23,39.36,8.21,2,Partner,Higher risk
+73.96,31.2,24.56,4.61,0,Partner,Good
+40.87,23.45,56.99,8.99,0,Online,Higher risk
+58.1,23.57,30.96,3.02,0,Online,Higher risk
+96.97,31.89,5.05,6.88,3,Branch,Good
+61.35,21.29,15.71,8.77,2,Partner,Good
+79.5,13.25,0.0,7.98,2,Branch,Good
+59.37,17.03,32.25,11.75,2,Online,Good
+66.71,29.61,32.99,3.71,1,Online,Good
+57.15,22.04,29.21,1.86,0,Online,Good
+55.44,26.08,53.26,3.02,0,Branch,Higher risk
+46.31,30.04,55.18,7.98,2,Branch,Higher risk
+64.45,17.5,33.27,7.49,0,Partner,Good
+45.23,31.07,1.84,6.31,0,Online,Good
+67.98,26.55,45.88,2.63,0,Branch,Good
+74.28,7.18,44.89,8.3,2,Online,Higher risk
+63.5,39.31,40.95,2.33,1,Branch,Higher risk
+53.71,15.99,51.7,9.48,0,Partner,Good
+64.81,2.14,17.36,14.57,0,Branch,Good
+53.37,9.46,68.14,7.1,6,Branch,Higher risk
+72.03,9.75,20.65,7.75,0,Branch,Good
+30.53,22.63,47.99,4.52,0,Online,Higher risk
+52.97,18.71,9.0,0.57,0,Online,Good
+28.14,17.96,21.12,4.19,0,Online,Higher risk
+35.57,29.44,60.26,2.72,1,Online,Higher risk
+78.46,26.08,31.83,1.66,2,Branch,Higher risk
+71.43,25.79,49.44,11.17,1,Branch,Good
+47.21,26.92,39.79,6.82,0,Branch,Good
+35.46,29.39,34.32,7.14,0,Partner,Good
+18.0,0.0,57.82,5.07,1,Branch,Higher risk
+49.85,17.63,32.21,5.48,3,Partner,Higher risk
+94.31,0.0,7.51,8.89,2,Branch,Good
+64.52,22.43,23.15,5.9,2,Branch,Higher risk
+49.61,21.94,44.82,7.59,0,Branch,Higher risk
+64.98,34.55,42.33,5.41,1,Branch,Higher risk
+34.59,36.25,10.93,4.97,0,Online,Higher risk
+53.54,24.43,24.41,1.78,0,Online,Good
+59.49,16.0,26.69,0.2,1,Branch,Higher risk
+56.71,27.82,30.15,5.22,1,Online,Higher risk
+69.86,15.66,13.99,6.17,3,Online,Good
+63.17,21.98,25.95,2.14,0,Partner,Good
+68.02,33.83,24.34,5.9,1,Partner,Good
+47.67,15.31,48.34,6.16,4,Online,Higher risk
+71.47,31.67,48.95,0.2,0,Online,Good
+82.43,30.13,33.67,3.25,1,Online,Good

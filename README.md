@@ -16,7 +16,7 @@ Replace `OWNER/REPO` in links below with your GitHub repository path after publi
 | 08 | Feature Reduction, Selection and Factor Analysis | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/08_feature_reduction_selection_and_factor_analysis/module_08_main.ipynb) |
 | 09 | Confusion Matrix | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/09_confusion_matrix/module_09_main.ipynb) |
 | 10 | Cross Validation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/10_cross_validation/module_10_main.ipynb) |
-| 11 | Decision Trees | |
-| 12 | More Classifiers: SVM and LDA | |
-| 13 | Cluster Analysis | |
+| 11 | Decision Trees | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/11_decision_trees/module_11_main.ipynb) |
+| 12 | More Classifiers: SVM and LDA | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/12_more_classifiers_svm_and_lda/module_12_main.ipynb)  |
+| 13 | Cluster Analysis | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/13_cluster_analysis/module_13_main.ipynb) |
 

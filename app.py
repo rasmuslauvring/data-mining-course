@@ -119,7 +119,7 @@ def home_page() -> None:
 
 			if st.button(
 				"Open page",
-				use_container_width=True,
+				width="stretch",
 				icon=":material/open_in_new:",
 				key=f"{key_prefix}_open_page",
 			):
@@ -129,14 +129,14 @@ def home_page() -> None:
 				st.link_button(
 					notebook_label,
 					notebook_link,
-					use_container_width=True,
+					width="stretch",
 					icon=":material/menu_book:",
 				)
 			else:
 				st.button(
 					notebook_label,
 					disabled=True,
-					use_container_width=True,
+					width="stretch",
 					icon=":material/disabled_by_default:",
 					key=f"{key_prefix}_notebook_disabled",
 				)
@@ -267,6 +267,44 @@ def home_page() -> None:
 			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/10_cross_validation/module_10_main.ipynb",
 			key_prefix="module_10",
 		)
+
+	with tile_cols_row_3[2]:
+			render_tile(
+				title="11: Decision Trees",
+				description="Explore decision tree algorithms for classification tasks, including model building, pruning, and evaluation.",
+				page_path="11_decision_trees/module_11_app.py",
+				image_path="11_decision_trees/images/11_cover.svg",
+				placeholder_text="Module preview",
+				notebook_label="Open in Colab",
+				notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/11_decision_trees/module_11_main.ipynb",
+				key_prefix="module_11",
+			)
+
+	with tile_cols_row_3[3]:
+				render_tile(
+					title="12: SVM and LDA",
+					description="Explore SVM and LDA algorithms for classification tasks, including model building, evaluation, and comparison.",
+					page_path="12_more_classifiers_svm_and_lda/module_12_app.py",
+					image_path="12_more_classifiers_svm_and_lda/images/12_cover.svg",
+					placeholder_text="Module preview",
+					notebook_label="Open in Colab",
+					notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/12_more_classifiers_svm_and_lda/module_12_main.ipynb",
+					key_prefix="module_12",
+				)
+
+	tile_cols_row_4 = st.columns(4, gap="small")
+	
+	with tile_cols_row_4[0]:
+		render_tile(
+			title="13: Cluster analysis",
+			description="Explore cluster analysis techniques, including k-means, hierarchical clustering, and evaluation metrics.",
+			page_path="13_cluster_analysis/module_13_app.py",
+			image_path="13_cluster_analysis/images/13_cover.svg",
+			placeholder_text="Module preview",
+			notebook_label="Open in Colab",
+			notebook_link="https://colab.research.google.com/github/erickoziel/data-mining-course/blob/main/13_cluster_analysis/module_13_main.ipynb",
+			key_prefix="module_13",
+		)
 	
 
 
@@ -319,10 +357,25 @@ module_10 = st.Page(
 	title="Module 10: Cross Validation",	
 )
 
+module_11 = st.Page(
+	"11_decision_trees/module_11_app.py",
+	title="Module 11: Decision Trees",	
+)
+
+module_12 = st.Page(
+	"12_more_classifiers_svm_and_lda/module_12_app.py",
+	title="Module 12: SVM and LDA",	
+)
+module_13 = st.Page(
+	"13_cluster_analysis/module_13_app.py",
+	title="Module 13: Cluster Analysis",	
+)
+
+
 navigation = st.navigation(
 	{
 		"Course": [home],
-		"Modules": [module_01, module_02, module_03, module_04, module_05, module_06, module_07, module_08, module_09, module_10],
+		"Modules": [module_01, module_02, module_03, module_04, module_05, module_06, module_07, module_08, module_09, module_10, module_11, module_12, module_13],
 	}
 )
 
